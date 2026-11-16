@@ -1,0 +1,11 @@
+{
+  "name": "HydroPINN — Water Decision Platform",
+  "short_name": "HydroPINN",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#060A12",
+  "theme_color": "#22D3EE",
+  "description": "Physics-Informed Neural Network Groundwater Forecasting & Decision Support System",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
